@@ -1,0 +1,361 @@
+@drache
+>
+   /\  /\
+  /  \/  \
+ |   o o  |
+ |   ___  |
+  \       /
+   '-----'
+~
+   gg  gg
+  g  gg  g
+ g   g g  g
+ g   ggg  g
+
+
+>
+   /\  /\    o
+  /  \/  \
+ |   o o  |
+ |   ___  |
+  \       /
+   '-----'
+~
+   gg  gg    g
+  g  gg  g
+ g   g g  g
+ g   ggg  g
+
+
+>
+   /\  /\  o
+  /  \/  \
+ |   o o  |  o
+ |   ___  |
+  \       /
+   '-----'
+~
+   gg  gg  g
+   g g  g  c
+ g   g g  g  g
+ g   ggg  g
+
+
+
+@einhorn
+>
+        /
+       /
+   ___/___
+  /  o o  \
+ |   ^   |
+  \_______/
+    |   |
+~
+        y
+       w
+   wwwwwww
+  w  w w  w
+ w   w   w
+
+
+>
+  *    */
+       /
+   ___/___
+  /  o o  \
+ |   ^   |
+  \_______/
+    |   |
+~
+  y    yy
+       w
+   wwwwwww
+  w  w w  w
+ w   w   w
+
+
+>
+  *    */  *
+       /
+   ___/___
+  /  o o  \
+ |   ^   |
+  \_______/
+    |   |
+~
+  y    yy  y
+       w
+   wwwwwww
+  w  w w  w
+ w   w   w
+
+
+
+@prinzessin
+>
+ /\ /\ /\
+ |______|
+ | o  o |
+ |  \_/ |
+  \_____/
+   /   \
+  /     \
+ |_______|
+~
+ yy yy yy
+ wwwwwwww
+ w w  w w
+ w  www w
+  mmmmmmm
+   m   m
+
+
+>
+ /\ /\ /\
+ |______|
+ | o  o |
+ |  \_/ |
+  \_____/ \o/
+   /   \
+  /     \
+ |_______|
+~
+ yy yy yy
+ wwwwwwww
+ w w  w w
+ w  www w
+  mmmmmmm mmm
+   m   m
+
+
+>
+*/\ /\ /\*
+ |______|
+ | o  o |
+ |  \_/ |
+  \_____/
+   /   \
+  /     \
+ |_______|
+~
+yyy yy yyy
+ wwwwwwww
+ w w  w w
+ w  www w
+  mmmmmmm
+   m   m
+
+
+
+@zwerg
+>
+     /\
+    /  \
+  _/____\_
+ (  o  o  )
+  \  __  /
+   \__/
+~
+     rr
+    r  r
+  yyyyyyyy
+ w  w  w  w
+
+
+>
+     /\  *
+    /  \
+  _/____\_
+ (  o  o  )
+  \  __  /  \o/
+   \__/
+~
+     rr  r
+    r  r
+  yyyyyyyy
+ w  w  w  w
+
+
+>
+   * /\ *
+    /  \
+  _/____\_
+ (  o  o  )
+  \  __  /  *
+   \__/
+~
+   r rr r
+    r  r
+  yyyyyyyy
+ w  w  w  w
+
+
+
+@wunderlampe
+>
+   ._.-._
+  /     \__
+ |  ~~~~  |
+  \______/
+~
+   yyyyyy
+  y     yyy
+
+
+>
+   ._.-._  o
+  /     \__
+ |  ~~~~  |  o
+  \______/
+~
+   yyyyyy  y
+  y     yyy
+
+
+>
+ * ._.-._  o
+  /     \__ *
+ |  ~~~~  |  o
+  \______/  *
+~
+ y yyyyyy  y
+  y     yyy y
+
+
+
+@zauberstab
+>
+         \|/
+         -*-
+         /|\
+        /
+       /
+      /
+     /
+~
+         yyy
+         yyy
+         mmm
+        m
+       m
+
+
+>
+   *   \|/   *
+         -*-
+         /|\
+        /
+       /
+      /
+     /
+~
+   y   yyy   y
+         yyy
+         mmm
+        m
+       m
+
+
+>
+  *  * \|/ *  *
+         -*-
+         /|\
+        /
+       /
+      /
+     /
+~
+  Y  Y YYY Y  Y
+         YYY
+         mmm
+        m
+       m
+
+
+
+@meerjungfrau
+>
+    .---.
+   /  o  \
+   \  ^  /
+    '---'
+   /     \
+   \_____/
+    \   /
+     \_/
+~
+    yyyyy
+   y  y  y
+   r  r  r
+    mmmmm
+   m     m
+   ccccccc
+
+
+>
+    .---.
+   /  o  \
+   \  ^  /
+    '---'
+   /     \
+   \_____/
+    \   /
+     \_/
+~
+    yyyyy
+   y  y  y
+   r  r  r
+    mmmmm
+   m     m
+   ccccccc
+
+
+>
+    .---.  *
+   /  o  \
+   \  ^  /
+    '---'
+   /     \
+   \_____/
+    \   /
+     \_/  *
+~
+    yyyyy  y
+   y  y  y
+   r  r  r
+    mmmmm
+   m     m
+   ccccccc
+
+
+
+@schatzkiste
+>
+ .---------.
+ |=========|
+ |    o    |
+ '---------'
+~
+ yyyyyyyyyyy
+ YYYYYYYYYYY
+
+
+>
+  *    *   *
+ |=========|
+ |  o o o  |
+ '---------'
+~
+  y    y   y
+ YYYYYYYYYYY
+
+
+>
+ * o  o  o *
+ .---------.
+ |  o o o  |
+ '---------'
+~
+ y y  y  y y
+ YYYYYYYYYYY

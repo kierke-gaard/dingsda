@@ -1,0 +1,535 @@
+@seifenblase
+>
+     .-----.
+    /       \
+    \       /
+     '-----'
+          |
+          |
+~
+     ccccccc
+    c       c
+    c       c
+     ccccccc
+          y
+          y
+>
+     .-----.  o
+    /       \
+    \       /   o
+     '-----'
+          |
+          |
+~
+     ccccccc  c
+    c       c
+    c       c   c
+     ccccccc
+          y
+          y
+>
+  o  .-----.   o
+    /       \
+  O \       /     o
+  o  '-----'    o
+          |   O
+          |
+~
+  c  ccccccc   c
+    c       c
+  C c       c     c
+  c  ccccccc    c
+          y   C
+          y
+
+@ball
+>
+      .---.
+     /     \
+    |       |
+     \     /
+      '---'
+
+
+
+  ____________
+~
+      rrrrr
+     r     r
+    r       r
+     r     r
+      rrrrr
+
+
+
+  gggggggggggg
+>
+
+
+
+      .---.
+     /     \
+    |       |
+     \     /
+      '---'
+  ____________
+~
+
+
+
+      rrrrr
+     r     r
+    r       r
+     r     r
+      rrrrr
+  gggggggggggg
+>
+  *   .---.   *
+     /     \
+    |       |
+     \     /
+      '---'
+
+
+
+  ____________
+~
+  y   rrrrr   y
+     r     r
+    r       r
+     r     r
+      rrrrr
+
+
+
+  gggggggggggg
+
+@teddybaer
+>
+    ()    ()
+     .---.
+    /     \
+    |o   o|
+    |  ^  |
+     \___/
+    .-----.
+    |     |
+    '-----'
+~
+    yy    yy
+     yyyyy
+    y     y
+    yy   yy
+    y  y  y
+     yyyyy
+    yyyyyyy
+    y     y
+
+>
+    ()    ()
+     .---.
+    /     \
+    |o   o|   \o/
+    |  ^  |    |
+     \___/
+    .-----.
+    |     |
+    '-----'
+~
+    yy    yy
+     yyyyy
+    y     y
+    yy   yy   yyy
+    y  y  y    y
+     yyyyy
+    yyyyyyy
+    y     y
+
+>
+    ()    ()    <3
+     .---.
+    /     \
+    |o   o|
+    |  ^  |
+     \___/
+    .-----.
+    |     |
+    '-----'
+~
+    yy    yy    rr
+     yyyyy
+    y     y
+    yy   yy
+    y  y  y
+     yyyyy
+    yyyyyyy
+    y     y
+    yyyyyyy
+
+@bauklotz
+>
+         +-----+
+         |     |
+         +-----+
+
+
+ +-----+ +-----+
+ |     | |     |
+ +-----+ +-----+
+ ===============
+~
+         yyyyyyy
+         y     y
+         yyyyyyy
+
+
+
+ rrrrrrr bbbbbbb
+ r     r b     b
+ rrrrrrr bbbbbbb
+>
+
+         +-----+
+         |     |
+         +-----+
+
+ +-----+ +-----+
+ |     | |     |
+ +-----+ +-----+
+ ===============
+~
+
+         yyyyyyy
+         y     y
+         yyyyyyy
+
+ rrrrrrr bbbbbbb
+ r     r b     b
+ rrrrrrr bbbbbbb
+ kkkkkkkkkkkkkkk
+>
+
+
+         +-----+
+         |     |
+         +-----+
+ +-----+ +-----+
+ |     | |     |
+ +-----+ +-----+
+ ===============
+~
+
+
+         yyyyyyy
+         y     y
+         yyyyyyy
+ rrrrrrr bbbbbbb
+ r     r b     b
+ rrrrrrr bbbbbbb
+ kkkkkkkkkkkkkkk
+
+@kreisel
+>
+   .---------.
+  /  o  o  o  \
+  \___________/
+        |
+  ==============
+~
+   bbbbbbbbbbb
+  b  y  y  y  b
+  bbbbbbbbbbbbb
+        k
+  gggggggggggggg
+>
+  ( .---------. )
+ ( /  o  o  o  \ )
+  \___________/
+        |
+  ==============
+~
+  c ccccccccccc c
+ c c  c  c  c  c c
+  ccccccccccccc
+        k
+  gggggggggggggg
+>
+ * .---------. *
+  /  o  o  o  \
+ ~\___________/~
+        |
+  ==============
+~
+ y yyyyyyyyyyy y
+  b  y  y  y  b
+ yyyyyyyyyyyyyyy
+        k
+  gggggggggggggg
+
+@drachen
+>
+     /\
+    /  \
+   /    \
+   \    /
+    \  /
+     \/
+      |
+      |
+      |
+~
+     rr
+    r  r
+   b    b
+   b    b
+    b  b
+     ww
+      w
+
+
+>
+           /\
+          /  \
+         /    \
+         \    /
+          \  /
+           \/
+            |
+            |
+            |
+~
+           rr
+          r  r
+         b    b
+         b    b
+          b  b
+           ww
+            w
+
+
+>
+     /\
+    /  \
+   /    \
+   \    /
+    \  /
+     \/
+     ~|~
+      |
+     ~|~
+~
+     rr
+    r  r
+   b    b
+   b    b
+    b  b
+     yy
+     www
+
+
+
+@rutsche
+>
+  ||
+  ||  ____
+  ||      \
+  ||       \____
+  ||
+  ||
+  ||
+  ===============
+~
+  yy
+  yy  rrrr
+  yy      r
+  yy       rrrrr
+  yy
+  yy
+  yy
+  ggggggggggggggg
+>
+  ||
+  ||  ____
+  ||     o\
+  ||       \____
+  ||
+  ||
+  ||
+  ===============
+~
+  yy
+  yy  rrrr
+  yy     mr
+  yy       rrrrr
+  yy
+  yy
+  yy
+  ggggggggggggggg
+>
+  ||
+  ||  ____
+  ||      \
+  ||       \____
+  ||
+  ||      \o/
+  ||       |
+  ===============
+~
+  yy
+  yy  rrrr
+  yy      r
+  yy       rrrrr
+  yy
+  yy      mmm
+  yy       m
+  ggggggggggggggg
+
+@schaukel
+>
+ ===============
+  \           /
+   \         /
+    \_______/
+      o
+     /|\
+ ===============
+~
+ kkkkkkkkkkkkkkk
+  k           k
+   k         k
+    rrrrrrrrr
+      m
+     mmm
+ ggggggggggggggg
+>
+ ===============
+  \           /
+    \       /
+       \_______/
+         o
+        /|\
+ ===============
+~
+ kkkkkkkkkkkkkkk
+  k           k
+    k       k
+       rrrrrrrrr
+         m
+        mmm
+ ggggggggggggggg
+>
+ ===============
+  \           /
+ \         /
+  \_______/
+    o
+   /|\
+ ===============
+~
+ kkkkkkkkkkkkkkk
+  k           k
+ k         k
+  rrrrrrrrr
+    m
+   mmm
+ ggggggggggggggg
+
+@wuerfel
+>
+ +-------+
+ | o   o |
+ |   o   |
+ | o   o |
+ +-------+
+~
+ rrrrrrrrr
+ r r   r r
+ r   r   r
+
+
+>
+    +-------+
+    | o     |
+  ~ |   o   |
+    |     o |
+    +-------+
+~
+    rrrrrrrrr
+    r r     r
+  r r   r   r
+
+
+>
+ +-------+
+ | o   o |
+ | o   o |
+ | o   o |
+ +-------+
+~
+ rrrrrrrrr
+ r r   r r
+ r r   r r
+
+
+
+@puppe
+>
+    _____
+   /     \
+  | o   o |
+   \  ^  /
+    -----
+   /-----\
+  |  r r  |
+   \_____/
+    |   |
+~
+    yyyyy
+   y     y
+  y y   y y
+   y  y  y
+    yyyyy
+   rrrrrrr
+  r  r r  r
+   rrrrrrr
+    k   k
+>
+    _____
+   /     \
+  | o   o |
+   \  ^  /
+    -----  \o/
+   /-----\   |
+  |  r r  |
+   \_____/
+    |   |
+~
+    yyyyy
+   y     y
+  y y   y y
+   y  y  y
+    yyyyy  yyy
+   rrrrrrr   r
+  r  r r  r
+   rrrrrrr
+    k   k
+>
+  <3 _____ <3
+   /     \
+  | o   o |
+   \  ^  /
+    -----
+  \-----/
+  |  r r  |
+   \_____/
+    |   |
+~
+    rr    rr
+   y     y
+  y y   y y
+   y  y  y
+    yyyyy
+  rrrrrrr
+  r  r r  r
+   rrrrrrr
+    r   r

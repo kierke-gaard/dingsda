@@ -1,0 +1,722 @@
+@sonne
+>
+     .---.
+    (OOOO)
+   ==========
+~
+
+.....YYYY
+...gggggggggg
+>
+    \  |  /
+  --  .---.  --
+     (OOOOO)
+   ==========
+~
+....Y..Y..Y
+
+......YYYYY
+...gggggggggg
+>
+   \   |   /
+    \  |  /
+  ---.OOOOO.---
+     (OOOOOOO)
+    '-------'
+  ==============
+~
+...Y...Y...Y
+....Y..Y..Y
+......YYYYY
+......YYYYYYY
+
+..gggggggggggggg
+
+@baum
+>
+      @
+     @@@
+      |
+   =========
+~
+......g
+.....ggg
+......y
+...ggggggggg
+>
+     @@@
+   @@@@@@@
+    @@@@@
+      |
+   =========
+~
+.....ggg
+...ggggggg
+....ggggg
+......y
+...ggggggggg
+>
+    .@@@@@.
+  .@@@@@@@@@.
+  @@@@@@@@@@@
+   '@@@@@@@'
+      |||
+      |||
+  =============
+~
+.....ggggg
+...ggggggggg
+..ggggggggggg
+....ggggggg
+......yyy
+......yyy
+..ggggggggggggg
+
+@blume
+>
+      o
+      |
+   \  |  /
+      |
+  =====|=====
+~
+......m
+......g
+...g..g..g
+......g
+..ggggggggggg
+>
+    o   o
+   o o@o o
+    o   o
+      |
+   \  |  /
+      |
+  =====|=====
+~
+....m...m
+...m.mym.m
+....m...m
+......g
+...g..g..g
+......g
+..ggggggggggg
+>
+  o o  o  o o
+ oo o@@@o oo
+  o o  o o
+      |
+  \   |   /
+      |
+ =====|=====
+~
+..m.m..m..m.m
+.mm.myyym.mm
+..m.m..m.m
+......g
+..g...g...g
+......g
+.ggggggggggg
+
+@mond
+>
+ *       *
+    .-.
+   /  .
+   \  .
+    '-'
+~
+.Y.......Y
+
+
+
+
+>
+ *       *
+    .--.
+   /  ..
+   \  ..
+    '--'
+~
+.Y.......Y
+
+
+
+
+>
+ *       *
+    .---.
+   /  o  \
+   \ o   /
+    '---'
+~
+.Y.......Y
+
+
+
+
+
+@stern
+>
+      *
+     ***
+    *****
+     ***
+      *
+~
+......Y
+.....YYY
+....YYYYY
+.....YYY
+......Y
+>
+  .    *    .
+     *  *  *
+  .  *******  .
+     *  *  *
+  .    *    .
+~
+..Y....Y....Y
+.....Y..Y..Y
+..Y..YYYYYYY..Y
+.....Y..Y..Y
+..Y....Y....Y
+>
+ *  .  *  .  *
+  .  *******  .
+ *  *********  *
+  .  *******  .
+ *  .  *  .  *
+~
+.Y..Y..Y..Y..Y
+..Y..YYYYYYY..Y
+.Y..YYYYYYYYY..Y
+..Y..YYYYYYY..Y
+.Y..Y..Y..Y..Y
+
+@stein
+>
+    .-----.
+   /  ...  \
+  |_________|
+  =============
+~
+....kkkkkkk
+...k..kkk..k
+..kkkkkkkkkkk
+..ggggggggggggg
+>
+    .-----.
+   /  ...  \
+  |_________|
+  ~~~~.....~~~
+~
+....kkkkkkk
+...k..kkk..k
+..kkkkkkkkkkk
+......kkkkk
+>
+    .-----.
+   /  ...  \
+  |_________|
+  =============
+~
+....kkkkkkk
+...k..kkk..k
+..kkkkkkkkkkk
+..ggggggggggggg
+
+@blatt
+>
+    .--.
+   /@|@\
+  |@@|@@|
+   \@|@/
+    '--'
+~
+
+....g.g
+...gg.gg
+....g.g
+
+>
+      .--.
+    _/@|@\
+   |@@|@@|
+    \@|@/
+      '--'
+~
+
+......g.g
+....gg.gg
+.....g.g
+
+>
+     .--.
+    /@|@\
+   |@@|@@|
+    \@|@/
+     '-'
+  ===|=======
+~
+
+.....g.g
+....gg.gg
+.....g.g
+
+..ggg.ggggggg
+
+@sand
+>
+        .:.
+     .:::::::.
+  ::::::::::::::
+~
+.........y
+......yyyyyyy
+..yyyyyyyyyyyyyy
+>
+        |P
+        |
+    _.|_._
+  _|_|_|_|_
+  ::::::::::
+~
+........yr
+........y
+......y
+...y.y.y.y
+..yyyyyyyyyy
+>
+        P
+        |\
+     _  |P|  _
+    |_|_|_|_|_|
+    |:::::::::|
+  ==============
+~
+........r
+........yr
+........yry
+....y.y.y.y.y.y
+....yyyyyyyyyyy
+..yyyyyyyyyyyyyy
+
+@see
+>
+     ~~~~~~~~~~
+   ~~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~
+~
+.....BBBBBBBBBB
+...BBBBBBBBBBBBBBB
+..BBBBBBBBBBBBBBBBBB
+...BBBBBBBBBBBBBBB
+>
+    ~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~~
+    ~~~~~~~~~~~~~
+~
+....BBBBBBBBBBB
+..BBBBBBBBBBBBBBBB
+...BBBBBBBBBBBBBBBB
+....BBBBBBBBBBBBB
+>
+       __
+     <><   O
+   ~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~
+~
+
+.....yyy...Y
+...BBBBBBBBBBBBBB
+..BBBBBBBBBBBBBBBBB
+...BBBBBBBBBBBBBBB
+
+@pilz
+>
+     .oo.
+     |||
+  ============
+~
+......rr
+.....www
+..gggggggggggg
+>
+    .ooooo.
+   oOoooOooo
+     |||
+  ============
+~
+.....rrrrr
+...rWrrrWrrr
+.....www
+..gggggggggggg
+>
+   .oooooo.
+  oOoooOoooOo
+   .oOooo.
+     |||
+  ==============
+~
+....rrrrrr
+..rWrrrWrrrWr
+....rWrrr
+.....www
+..gggggggggggggg
+
+@berg
+>
+       /\
+   ___/  \___
+  ===========
+~
+.......kk
+......k..k
+..ggggggggggg
+>
+        /\
+      /    \
+  __/        \__
+  =============
+~
+........kk
+......k....k
+....k........k
+..ggggggggggggg
+>
+       .AAA.
+     /AAAAAAA\
+   /AAAAAAAAAAA\
+  /  /      \   \
+ ====================
+~
+........WWW
+.....kWWWWWWWk
+...kWWWWWWWWWWWk
+..k..k......k...k
+.gggggggggggggggggggg
+
+@wiese
+>
+   \|  /\|
+   |\ |/ |\
+  =============
+~
+...gg..ggg
+...gg.gg.gg
+..ggggggggggggg
+>
+    @   @
+   \|/ \|/
+   | \ |/ |
+  ==============
+~
+....y...y
+...ggg.ggg
+...g.g.gg.g
+..gggggggggggggg
+>
+  @  @   @  @
+  \|/ \|/ \|/
+  | \ | \|/
+  ================
+~
+..y..y...y..y
+..ggg.ggg.ggg
+..g.g.g.ggg
+..gggggggggggggggg
+
+@muschel
+>
+    .-----.
+   /|||||||\
+  /|||||||||\
+  ::::::::::::
+~
+
+...mmmmmmmmm
+..mmmmmmmmmmm
+..yyyyyyyyyyyy
+>
+    .-----.
+   /||||||||\
+   \_________/
+  ::::::::::::
+~
+
+...mmmmmmmmmm
+...m.........m
+..yyyyyyyyyyyy
+>
+   /|\|/|\|/|\
+  /|\|/|\|/|\|
+  \_____o_____/
+  ::::::::::::
+~
+...mmmmmmmmmmm
+..mmmmmmmmmmmm
+..m.....W.....m
+..yyyyyyyyyyyy
+
+@pfuetze
+>
+   ~~~~~~~~~~
+  ~~~~~~~~~~~~
+  =============
+~
+...bbbbbbbbbb
+..bbbbbbbbbbbb
+..ggggggggggggg
+>
+      :
+      :
+   ~~~~~~~~~~
+  ~~~~~~~~~~~~
+  =============
+~
+......c
+......c
+...bbbbbbbbbb
+..bbbbbbbbbbbb
+..ggggggggggggg
+>
+   \ | /
+    \|/
+   ~~~~~~~~~~
+  ~~~~~~~~~~~~
+  =============
+~
+...c.c.c
+....ccc
+...bbbbbbbbbb
+..bbbbbbbbbbbb
+..ggggggggggggg
+
+@fluss
+>
+   =============
+  ~~~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~~
+   ===============
+~
+...ggggggggggggg
+..bbbbbbbbbbbbbbbb
+..bbbbbbbbbbbbbbbbbbb
+...bbbbbbbbbbbbbbbb
+...ggggggggggggggg
+>
+   =============
+   ~~~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~~
+   ===============
+~
+...ggggggggggggg
+...bbbbbbbbbbbbbbbb
+..bbbbbbbbbbbbbbbbbbb
+...bbbbbbbbbbbbbbbb
+...ggggggggggggggg
+>
+       ___
+     _/___\_
+   ~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~~
+~
+.......yyy
+.....yyyyyyy
+...bbbbbbbbbbbbbb
+..bbbbbbbbbbbbbbbbb
+...bbbbbbbbbbbbbbbb
+
+@sonnenblume
+>
+      .
+     /|\
+     |||
+  \  |||  /
+  =========
+~
+
+.....ggg
+.....ggg
+..g..ggg..g
+..ggggggggg
+>
+    ***
+   *****
+    |||
+  ===|=====
+~
+....yyy
+...yyyyy
+....ggg
+..ggggggggg
+>
+     *  *  *
+   *  ***  *
+  ** *@@@* **
+   *  ***  *
+     *  *  *
+     |  |
+  \  | |  /
+ =============
+~
+.....y..y..y
+...y..yyy..y
+..yy.yrrry.yy
+...y..yyy..y
+.....y..y..y
+.....g..g
+..g..g.g..g
+.ggggggggggggg
+
+@kastanie
+>
+     *.*.*
+    *.*.*.*
+    *.*.*.*
+     *.*.*
+~
+.....g.g.g
+....g.g.g.g
+....g.g.g.g
+.....g.g.g
+>
+   \ * * /
+    * O *
+   /  O  \
+  ==========
+~
+.....g.g
+....g.r.g
+......r
+..kkkkkkkkkk
+>
+  \  \ | /  /
+   \  \|/  /
+   .. (OO) ..
+  ==========
+~
+
+
+.......rr
+..kkkkkkkkkk
+
+@tanne
+>
+      A
+     AAA
+    AAAAA
+      |
+  ===|===
+~
+......g
+.....ggg
+....ggggg
+......k
+..gggkggg
+>
+       A
+      AAA
+     AAAAA
+    AAAAAAA
+      |||
+  =========
+~
+.......g
+......ggg
+.....ggggg
+....ggggggg
+......kkk
+..ggggggggg
+>
+       x
+      AAA
+     xAAAAx
+    AAAAAAA
+   AAAAxAAAA
+      |||
+  ===========
+~
+.......W
+......ggg
+.....WggggW
+....ggggggg
+...ggggWgggg
+......kkk
+..ggggggggggg
+
+@insel
+>
+  ~~~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~~
+      ::::::::
+  ~~~~~~~~~~~~~~~~~~
+~
+..bbbbbbbbbbbbbbbb
+..bbbbbbbbbbbbbbbbbb
+......yyyyyyyy
+..bbbbbbbbbbbbbbbbbb
+>
+       VVV
+      VVVVV
+        |
+   ~~~~::::::~~~~~~~
+  ~~~~~~~~~~~~~~~~~~~~
+~
+.......ggg
+......ggggg
+........k
+...bbbbyyyyyybbbbbbb
+..bbbbbbbbbbbbbbbbbbbb
+>
+    VVVVV     O
+   VVVVVVV   O
+     |  VV
+   ~~::::::::~~~~
+  ~~~~~~~~~~~~~~~~~~
+~
+....ggggg.....Y
+...ggggggg...Y
+.....k..gg
+...bbyyyyyyyybbbb
+..bbbbbbbbbbbbbbbbbb
+
+@meer
+>
+   ~~~~~~~~~
+  ~~~~~~~~~~~
+ ~~~~~~~~~~~~~
+~
+...BBBBBBBBB
+..BBBBBBBBBBB
+.BBBBBBBBBBBBB
+>
+      ooo
+   ~~~~~~~~~~
+  ~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~
+~
+......WWW
+...BBBBBBBBBB
+..BBBBBBBBBBBBB
+.BBBBBBBBBBBBBBB
+>
+    oo  ooo
+   ~~~~~~~~~~~
+  ~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~~~~
+~
+....WW..WWW
+...BBBBBBBBBBB
+..BBBBBBBBBBBBBB
+..BBBBBBBBBBBBBBBB
+.BBBBBBBBBBBBBBBBBB
+

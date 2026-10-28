@@ -1,0 +1,167 @@
+# Körper word movies. Frame 1 at rest, 2 in motion, 3 final pose.
+@auge
+>
+   .-------.
+ /  .-'''-.  \
+|  /  (O)  \  |
+ \  '-----'  /
+  '-------'
+~
+...wwwwwwwww
+.w..wwwwwww..w
+w..w..bkb..w..w
+.w..wwwwwww..w
+..wwwwwwwww
+>
+   .-------.
+ /  .-----.  \
+|  /---------\  |
+ \  '-----'  /
+  '-------'
+~
+...wwwwwwwww
+.b..bbbbbbb..b
+b..bbbbbbbbbbb..b
+.b..bbbbbbb..b
+..wwwwwwwww
+>
+  *.-------.*
+ /  .-'''-.  \
+|  /  (O)  \  |
+ \  '-----'  /
+  '-------'
+~
+..YwwwwwwwwwY
+.w..wwwwwww..w
+w..w..bkb..w..w
+.w..wwwwwww..w
+..wwwwwwwww
+@hand
+>
+   _ _ _ _
+  | | | | |
+  | | | | |_
+  |       _|
+   \_______/
+~
+...y.y.y.y
+..y.y.y.y.y
+..y.y.y.y.yy
+..y.......yy
+...yyyyyyyyy
+>
+  _ _ _ _
+ | | | | |
+ | | | | |_
+ |       _|
+  \_______/
+  )))
+~
+..y.y.y.y
+.y.y.y.y.y
+.y.y.y.y.yy
+.y.......yy
+..yyyyyyyyy
+..ccc
+>
+ ))_ _ _ _ ((
+ ) | | | | | (
+ ) | | | | |_ (
+ ) |       _| (
+   \_______/
+~
+.ccy.y.y.y.cc
+.c.y.y.y.y.y.c
+.c.y.y.y.y.yy.c
+.c.y.......yy.c
+...yyyyyyyyy
+@nase
+>
+   .-------.
+  /  o   o  \
+ |     @     |
+ |   \___/   |
+  \         /
+   '-------'
+~
+...yyyyyyyyy
+..y..k...k..y
+.y.....R.....y
+.y...yyyyy...y
+..y.........y
+...yyyyyyyyy
+>
+   .-------.
+  /  ^   ^  \
+ |     @     |
+ |   \___/   |
+  \         /
+   '-------'
+~
+...yyyyyyyyy
+..y..y...y..y
+.y.....R.....y
+.y...yyyyy...y
+..y.........y
+...yyyyyyyyy
+>
+  *.-------.*
+  /  ^   ^  \
+ |    (@)    |
+ |   \___/   |
+  \         /
+   '-------'
+~
+..YyyyyyyyyyY
+..y..y...y..y
+.y....yRy....y
+.y...yyyyy...y
+..y.........y
+...yyyyyyyyy
+@zahn
+>
+   .-------.
+  /         \
+ |  o     o  |
+ |           |
+ |   \_|W|_/ |
+  \         /
+   '-------'
+~
+...yyyyyyyyy
+..y.........y
+.y..y.....y..y
+.y...........y
+.W...yyWWWyy.W
+..y.........y
+...yyyyyyyyy
+>
+   .-------.
+  /         \
+ |  ^     ^  |
+ |           |
+ |   \_|W|_/ |
+  \         /
+   '-------'
+~
+...yyyyyyyyy
+..y.........y
+.y..c.....c..y
+.y...........y
+.W...yyWWWyy.W
+..y.........y
+...yyyyyyyyy
+>
+  *.-------.*
+  /  ^   ^  \
+ |           |
+ |   \_|W|_/ |
+  \         /
+   '-------'
+~
+..YyyyyyyyyyY
+..y..y...y..y
+.y...........y
+.W...yyWWWyy.W
+..y.........y
+...yyyyyyyyy

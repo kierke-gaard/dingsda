@@ -1,0 +1,878 @@
+@strand
+>
+  \ | /
+ -- O --
+  / | \
+
+~~~~~~~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~~
+::::::::::::::::::::::
+~
+yyyyyyy
+yyyyyyyy
+yyyyyyy
+
+bbbbbbbbbbbbbbbbbbbb
+BBBBBBBBBBBBBBBBBBBB
+yyyyyyyyyyyyyyyyyyyyyy
+>
+  \ | /
+ -- O --
+  / | \
+
+  ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+::::::::::::::::::::::
+~
+yyyyyyy
+yyyyyyyy
+yyyyyyy
+
+BBBBBBBBBBBBBBBBBBBB
+bbbbbbbbbbbbbbbbbbbb
+yyyyyyyyyyyyyyyyyyyyyy
+>
+  \ | /
+ -- ^.^ --
+  / | \
+
+~~~~~~~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~~
+::::::::::::::::::::::
+~
+yyyyyyy
+yyyyyyyyyy
+yyyyyyy
+
+BBBBBBBBBBBBBBBBBBBB
+bbbbbbbbbbbbbbbbbbbb
+yyyyyyyyyyyyyyyyyyyyyy
+@zoo
+>
+
+
+
+
+ _ _ _ _ _
+|_|_|_|_|_|
+| | | | | |
+|_|_|_|_|_|
+~
+
+
+
+
+...........
+...........
+...........
+...........
+>
+  /\ /\
+ (o o)
+  \=/
+   ||
+ _ _ _ _ _
+|_|_|_|_|_|
+| | | | | |
+|_|_|_|_|_|
+~
+yyyyyyy
+yyyyyy
+yyyyy
+yyyyy
+kkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+>
+  /\ /\
+ (^ ^)
+  \=/
+   ||
+ _ _ _ _ _
+|_|_|_|_|_|
+| | | | | |
+|_|_|_|_|_|
+~
+yyyyyyy
+yyyyyy
+yyyyy
+yyyyy
+kkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+@garten
+>
+
+
+
+
+   .
+  _|_
+ ~~~~~~~~~~~~~~~
+::::::::::::::::::
+~
+
+
+
+
+gggg
+ggggg
+BBBBBBBBBBBBBBBB
+yyyyyyyyyyyyyyyyyy
+>
+
+
+
+  ,
+  \|/
+   |
+ ~~~~~~~~~~~~~~~
+::::::::::::::::::
+~
+
+
+
+ggg
+ggggg
+gggg
+BBBBBBBBBBBBBBBB
+yyyyyyyyyyyyyyyyyy
+>
+  \|/
+ -(O)-
+  /|\
+   |
+  \|/
+   |
+ ~~~~~~~~~~~~~~~
+::::::::::::::::::
+~
+MMMMM
+MMMMMM
+MMMMM
+gggg
+ggggg
+gggg
+BBBBBBBBBBBBBBBB
+yyyyyyyyyyyyyyyyyy
+@haus
+>
+        /\
+       /  \
+  ______________
+ |  [ ]  |  |  |
+ |____|__|____|
+~
+rrrrrrrrrr
+rrrrrrrrrrr
+rrrrrrrrrrrrrrrr
+kkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+>
+      ~  ~
+       ~  ~
+        /\
+       /  \
+  ______________
+ |  [ ]  |  |  |
+ |____|__|____|
+~
+kkkkkkkkkk
+kkkkkkkkkkk
+rrrrrrrrrr
+rrrrrrrrrrr
+rrrrrrrrrrrrrrrr
+kkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+>
+     ~  ~
+      ~  ~
+        /\
+       /  \
+  ______________
+ |  [Y]  |  |  |
+ |____|__|____|
+~
+kkkkkkkkk
+kkkkkkkkkk
+rrrrrrrrrr
+rrrrrrrrrrr
+rrrrrrrrrrrrrrrr
+kkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+@wald
+>
+      /\
+     /  \
+    /    \
+      ||
+  /\  /\
+ /  \/  \
+  ||    ||
+  ||    ||
+~
+gggggggg
+ggggggggg
+gggggggggg
+kkkkkkkk
+gggggggg
+ggggggggg
+kkkkkkkkkk
+kkkkkkkkkk
+>
+  \ | /
+ -- O --
+      /\
+     /  \
+    /    \
+      ||
+  /\  /\
+ /  \/  \
+  ||    ||
+~
+YYYYYYY
+YYYYYYYY
+YYYYYYYY
+ggggggggg
+gggggggggg
+gggggggg
+kkkkkkkk
+ggggggggg
+gggggggggg
+>
+  \ | /
+ -- O --
+   /\  /\
+  /  \/  \
+ /        \
+    ||   ||
+  /\  /\
+ /  \/  \
+  ||    ||
+~
+YYYYYYY
+YYYYYYYY
+GGGGGGGGG
+GGGGGGGGGG
+GGGGGGGGGGG
+kkkkkkkkkkk
+GGGGGGGG
+GGGGGGGGG
+kkkkkkkkkk
+@spielplatz
+>
+ _____________
+|  /\    /\  |
+|  \/   \/  |
+ ===|=====|===
+    |   |
+   [o]
+   /_\
+~
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+kkkkkkkkk
+yyyyyy
+yyyyyy
+>
+ _____________
+|  /\    /\  |
+|  \/   \/  |
+ ===|=====|===
+    |   |
+    [o]
+    /_\
+~
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+kkkkkkkkk
+yyyyyyy
+yyyyyyy
+>
+ _____________
+|  /\    /\  |
+|  \/   \/  |
+ ===|=====|===
+   /    \
+   [^]^
+   /_\
+~
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+kkkkkkkkk
+yyyyyyy
+yyyyyy
+@sandkasten
+>
+
+
+
+   ___
+  |___|
+ ._________.
+ |_________|
+~
+
+
+
+rrrrrr
+rrrrrrr
+yyyyyyyyyyyy
+yyyyyyyyyyyy
+>
+
+
+    _
+   |_|__
+  ._|____
+ ._________.
+ |_________|
+~
+
+
+rrrrr
+rrrrrrrr
+rrrrrrrrr
+yyyyyyyyyyyy
+yyyyyyyyyyyy
+>
+   _|_|_
+  |_|_|_|
+  |  ^  |
+ .|_____|.
+ ._________.
+ |_________|
+~
+rrrrrrrr
+rrrrrrrrr
+rrrrrrrrr
+yyyyyyyyyy
+yyyyyyyyyyyy
+yyyyyyyyyyyy
+@schwimmbad
+>
+  _____________
+ |_____________|
+  ~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~
+~
+wwwwwwwwwwwwwww
+wwwwwwwwwwwwwwww
+bbbbbbbbbbbbbb
+BBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBB
+>
+      _____
+  ___|_____
+ |_________|
+ ~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~
+~
+wwwwwwwwwww
+wwwwwwwwwww
+wwwwwwwwwwww
+BBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBB
+>
+     _____
+ ____|_____
+|__________|
+ ~ ~ ~ ~ ~ ~ ~
+ ~~~~~~~~~~~~~~
+~
+wwwwwwwwww
+wwwwwwwwwww
+wwwwwwwwwwww
+BBBBBBBBBBBBBB
+BBBBBBBBBBBBBBB
+@bahnhof
+>
+   ____
+  |_|__|_
+ |[]  []  |
+ |__________|
+  (o)    (o)
+~
+rrrrrrrrrr
+rrrrrrrrrr
+kkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkk
+>
+     ____
+    |_|__|_
+   |[]  []  |
+   |__________|
+    (o)    (o)
+~
+rrrrrrrrrrrr
+rrrrrrrrrrrr
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+kkkkkkkkkkkkkk
+>
+      o o
+     ____
+    |_|__|_
+   |[]  []  |
+   |__________|
+    (o)    (o)
+~~~~~~~~~~~~~~~~
+~
+wwwwwwwwww
+wwwwwwwwwwww
+rrrrrrrrrrrr
+rrrrrrrrrrrrr
+kkkkkkkkkkkkkkk
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkk
+@supermarkt
+>
+  _________
+ |  |  |  |
+ |__|__|__|
+  \  ____/
+   o    o
+~
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkk
+kkkkkkkkk
+>
+  _________
+ |  |  |  |
+ |__|__|__|
+  \  ____/
+   o    o
+~
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkk
+kkkkkkkkk
+>
+  _________
+ |R |O |Y |
+ |__|__|__|
+  \  ____/
+   o    o
+~
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkk
+kkkkkkkkk
+@zelt
+>
+     |
+     |
+    /\
+   /  \
+  /____\
+~
+kkkkkk
+kkkkkk
+GGGGGG
+GGGGGGG
+GGGGGGGG
+>
+   |>
+   |
+    /\
+   /  \
+  /__||\
+ /_____\
+~
+rrrrr
+kkkk
+GGGGGG
+GGGGGGG
+GGGGGGGG
+GGGGGGGG
+>
+   |>
+   |
+    /\
+   /||\
+  /_||_\
+ /______\
+  \*Y*/
+~
+rrrrr
+kkkk
+GGGGGG
+GGGGGGG
+GGGGGGGG
+GGGGGGGGG
+RRRRRRR
+@briefkasten
+>
+  _______
+ |_______|
+ |  ___  |
+ |_|___|_|
+   |   |
+~
+RRRRRRRRR
+RRRRRRRRRR
+RRRRRRRRRR
+RRRRRRRRRR
+kkkkkkkk
+>
+  _______
+ |_______|
+ |  ___  |
+ |_|___|_|
+   |   |
+~
+RRRRRRRRR
+RRRRRRRRRR
+RRRRRRRRRR
+RRRRRRRRRR
+kkkkkkkk
+>
+  _______
+ |_______|
+ |  ___  |
+ |_|=_=|_|
+   |   |
+~
+RRRRRRRRR
+RRRRRRRRRR
+RRRRRRRRRR
+RRRRRRRRRR
+kkkkkkkk
+@eisdiele
+>
+    ____
+   (____)
+    \  /
+     \/
+~
+MMMMMMMM
+MMMMMMMMM
+yyyyyyyy
+yyyyyyy
+>
+    ____
+   (____)
+   (____)
+    \  /
+     \/
+~
+MMMMMMMM
+MMMMMMMMM
+MMMMMMMMM
+yyyyyyyy
+yyyyyyy
+>
+     o
+    .-O-.
+   (_____)
+    \  /
+     \/
+~
+RRRRRR
+MMMMMMMMM
+MMMMMMMMMM
+yyyyyyyy
+yyyyyyy
+@hafen
+>
+   |>
+   |
+ ____|____
+ \_________/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+yyyyy
+yyyy
+yyyyyyyyyy
+rrrrrrrrrrrr
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+>
+         |>
+         |
+       ____|____
+       \_________/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+yyyyyyyyyyy
+yyyyyyyyyy
+yyyyyyyyyyyyyyyy
+rrrrrrrrrrrrrrrrrr
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+>
+               |>
+               |
+             ____|____
+             \_________/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+yyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyy
+rrrrrrrrrrrrrrrrrrrrrrrr
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+@bruecke
+>
+  _____
+ /_____\
+(O)   (O)
+===========================
+ |_|          |_|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+yyyyyyy
+yyyyyyyy
+yyyyyyyyy
+kkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkk
+BBBBBBBBBBBBBBBBBBBBBBBBBBB
+>
+           _____
+          /_____\
+         (O)   (O)
+===========================
+ |_|          |_|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+yyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyy
+kkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkk
+BBBBBBBBBBBBBBBBBBBBBBBBBBB
+>
+                    _____
+                   /_____\
+                  (O)   (O)
+===========================
+ |_|          |_|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+yyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyy
+kkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkk
+BBBBBBBBBBBBBBBBBBBBBBBBBBB
+@ampel
+>
+    _____
+   |  O  |
+   |  O  |
+   |  O  |
+   |_____|
+      |
+      |
+~
+kkkkkkkkk
+RRRRRRRRRR
+kkkkkkkkkk
+kkkkkkkkkk
+kkkkkkkkkk
+kkkkkkk
+kkkkkkk
+>
+    _____
+   |  O  |
+   |  O  |
+   |  O  |
+   |_____|
+      |
+      |
+~
+kkkkkkkkk
+kkkkkkkkkk
+YYYYYYYYYY
+kkkkkkkkkk
+kkkkkkkkkk
+kkkkkkk
+kkkkkkk
+>
+    _____
+   |  O  |
+   |  O  |
+   |  O  |
+   |_____|
+      |
+      |
+~
+kkkkkkkkk
+kkkkkkkkkk
+kkkkkkkkkk
+GGGGGGGGGG
+kkkkkkkkkk
+kkkkkkk
+kkkkkkk
+@zebrastreifen
+>
+||||||||||||||||||||||||
+
+||||||||||||||||||||||||
+
+||||||||||||||||||||||||
+~
+wwwwwwwwwwwwwwwwwwwwwwww
+
+wwwwwwwwwwwwwwwwwwwwwwww
+
+wwwwwwwwwwwwwwwwwwwwwwww
+>
+||||||||||o|||||||||||||
+          /|\
+||||||||||/|\|||||||||||
+
+||||||||||||||||||||||||
+~
+wwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwww
+
+wwwwwwwwwwwwwwwwwwwwwwww
+>
+|||||||||||||||||||o||||
+                   \|/
+|||||||||||||||||||/|\||
+
+||||||||||||||||||||||||
+~
+wwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwww
+
+wwwwwwwwwwwwwwwwwwwwwwww
+@schule
+>
+      _|_
+     (___)
+ ___|_____|___
+|  [] [] [] |
+|____________|
+    [___]
+~
+kkkkkkkkk
+YYYYYYYYYY
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkk
+kkkkkkkkk
+>
+     )_|_(
+     (___)
+ ___|_____|___
+|  [] [] [] |
+|____________|
+    [___]
+~
+YYYYYYYYYY
+YYYYYYYYYY
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkk
+kkkkkkkkk
+>
+   ) )_|_( (
+     (___)
+ ___|_____|___
+|  [] [] [] |
+|____________|
+    [___]
+~
+YYYYYYYYYYYY
+YYYYYYYYYY
+kkkkkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkk
+kkkkkkkkk
+@gartenzwerg
+>
+
+
+
+    _____
+~~~~~~~~~~~~~~
+~
+
+
+
+kkkkkkkkk
+gggggggggggggg
+>
+    /RR\
+   (o  o)
+    \WW/
+   /b    b\
+~~~~~~~~~~~~~~
+~
+RRRRRRRR
+wwwwwwwww
+WWWWWWWW
+bbbbbbbbbbb
+gggggggggggggg
+>
+  \RR/
+   (^  ^)
+    \WW/
+   /b    b\
+~~~~~~~~~~~~~~
+~
+RRRRRR
+wwwwwwwww
+WWWWWWWW
+bbbbbbbbbbb
+gggggggggggggg
+@kirche
+>
+       |
+     _/_\_
+    |  _  |
+    | |_| |
+  __|_____|__
+ |____________|
+~
+kkkkkkkk
+kkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+>
+       +
+     _/_\_
+    |  _  |
+    | (_) |
+  __|_____|__
+ |____________|
+~
+YYYYYYYY
+kkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkkk
+>
+  \ | /
+    _/_\_
+    |  _  |
+    | (O) |
+  __|_____|__
+ |____________|
+~
+YYYYYYY
+kkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkk
+kkkkkkkkkkkkk
+kkkkkkkkkkkkkkk

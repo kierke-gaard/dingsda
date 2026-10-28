@@ -1,0 +1,165 @@
+# Musik word movies. Frame 1 at rest, 2 in motion, 3 final pose.
+@gitarre
+>
+       |
+       |
+     .-|-.
+    /  O  \
+   |  (O)  |
+    \  O  /
+     '---'
+~
+.......y
+.......y
+.....yyyyy
+....r..r..r
+...r..kkk..r
+....r..k..r
+.....rrrrr
+>
+       |
+       |
+     .-|-.
+    /  O  \  )
+   |  (O)  | ))
+    \  O  /  )
+     '---'
+~
+.......y
+.......y
+.....yyyyy
+....r..r..r..c
+...r..kkc..r.cc
+....r..k..r..c
+.....rrrrr
+>
+  J      |
+  |      |
+  |    .-|-.
+  |   /  O  \
+  |  |  (O)  | J
+   \  \  O  /
+     '---'
+~
+..c......c
+..c......c
+..c....yycyy
+..c...r..r..r
+..c..c..kkk..c.c
+...r..r..k..r
+.....rrrrr
+@trommel
+>
+ \        /
+  \      /
+ .--------.
+/ ........ \
+|__________|
+|  ~~~~~~  |
+|__________|
+~
+.y........y
+..y......y
+.WWWWWWWWWW
+W.WWWWWWWW.W
+rrrrrrrrrrrr
+r..YYYYYY..r
+rrrrrrrrrrrr
+>
+  \    /
+   \  /
+ .--------.
+/ ........ \
+|__________|
+|  ~~~~~~  |
+|__________|
+~
+..y....y
+...y..y
+.WWWWWWWWWW
+W.WWWWWWWW.W
+rrrrrrrrrrrr
+r..YYYYYY..r
+rrrrrrrrrrrr
+>
+ *  \  /  *
+  .--------.
+ / ........ \
+|__________|
+|  ~~~~~~  |
+|__________|
+~
+.Y..y..y..Y
+..yyyyyyyyyy
+.W.WWWWWWWW.W
+WWWWWWWWWWWW
+r..rrrrrr..r
+rrrrrrrrrrrr
+@trompete
+>
+   _______________
+ _|=============|\
+|_|_____________|  )
+  |    |   |    |__/
+~
+...WWWWWWWWWWWWWWW
+.yyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyy..y
+..y....y...y....yyyy
+>
+   _______________
+ _|=============|\
+|_|_____________|  )
+  |    |   |    |__/
+     ~  ~  ~
+~
+...yyyyyyyyyyyyyyy
+.yyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyy..y
+..y....y...y....yyyy
+.....c..c..c
+>
+ *  _______________
+ _|=============|\
+|_|_____________|  )
+  |    |   |    |__/  *
+   ~ ~ ~ ~ ~ ~
+~
+.Y..yyyyyyyyyyyyyyy
+.yyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyy..y
+..y....y...y....yyyy..y
+...c.c.c.c.c.c
+@klavier
+>
+ __________________
+|_|#|_|#|_|#|_|#|_|
+|  |  |  |  |  |  |
+|__|__|__|__|__|__|
+~
+.wwwwwwwwwwwwwwwwww
+kwkkkwkkkwkkkwkkkwk
+w..w..w..w..w..w..w
+wwwwwwwwwwwwwwwwwww
+>
+ __________________
+|_|#|_|#|_|#|_|#|_|
+|  |  |  |  |  |  |
+|__|__|__|__|__|__|
+~
+.wwwwwwwwwwwwwwwwww
+wwwkwwwkwwwkwwwkwww
+w..w..w..w..w..w..w
+wwwwwwwwwwwwwwwwwww
+>
+  J  o    J   o
+ __________________
+|_|#|_|#|_|#|_|#|_|
+|  |  |  |  |  |  |
+|__|__|__|__|__|__|
+~
+..Y..Y....Y...Y
+.wwwwwwwwwwwwwwwwww
+wwwkwwwkwwwkwwwkwww
+w..w..w..w..w..w..w
+...................

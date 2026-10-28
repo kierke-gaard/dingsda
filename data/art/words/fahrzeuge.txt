@@ -1,0 +1,830 @@
+# Wortfilme Fahrzeuge
+@feuerwehrauto
+>
+
+ |  |  |  |  |  |  |
+ =============      --
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%[=]%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (O)         (O)    (O)
+~
+
+.y..y..y..y..y..y..y
+.yyyyyyyyyyyyy......kk
+rrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrcccrr
+rrrrrrrrrrrrrrrrrrrrrrrrrr
+..kkk.........kkk....kkk
+>
+                  \ | /
+ |  |  |  |  |  |  |
+ =============      --
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%[=]%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (o)         (o)    (o)
+~
+..................Y.Y.Y
+.y..y..y..y..y..y..y
+.yyyyyyyyyyyyy......RR
+rrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrcccrr
+rrrrrrrrrrrrrrrrrrrrrrrrrr
+..kkk.........kkk....kkk
+>
+                  \ | /
+ |  |  |  |  |  |  |
+ =============      --
+%%%%%%%%%%%%%%%%%%%%%%%%%%.:*
+%%%%%%%%%%%%%%%%%%%%%[=]%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (O)         (O)    (O)
+~
+..................Y.Y.Y
+.y..y..y..y..y..y..y
+.yyyyyyyyyyyyy......RR
+rrrrrrrrrrrrrrrrrrrrrrrrrrCCC
+rrrrrrrrrrrrrrrrrrrrrcccrr
+rrrrrrrrrrrrrrrrrrrrrrrrrr
+..kkk.........kkk....kkk
+
+@traktor
+>
+
+    %%%%%
+    %[]%%    |
+    %%%%%
+    %%%%%%%%%%%%
+  .-.%%%%%%%%%%%
+ (   )        (O)
+  `-'
+~
+
+....ggggg
+....gccgg....k
+....ggggg
+....gggggggggggg
+..kkkggggggggggg
+.k...k........kkk
+..kkk
+>
+
+    %%%%%    o
+    %[]%%    |
+    %%%%%
+    %%%%%%%%%%%%
+  .-.%%%%%%%%%%%
+ (   )        (o)
+  `-'
+~
+
+....ggggg....k
+....gccgg....k
+....ggggg
+....gggggggggggg
+..kkkggggggggggg
+.k...k........kkk
+..kkk
+>
+            O
+    %%%%%    o
+    %[]%%    |
+    %%%%%
+    %%%%%%%%%%%%
+  .-.%%%%%%%%%%%
+ (   )        (O)
+  `-'
+~
+............w
+....ggggg....k
+....gccgg....k
+....ggggg
+....gggggggggggg
+..kkkggggggggggg
+.k...k........kkk
+..kkk
+
+@fahrrad
+>
+             _
+               --
+              /
+  ___ /_______    ___
+ /  ___   \      /   \
+ |  *  |         |  *  |
+ \___/           \___/
+~
+.............b
+...............rr
+..............b
+..kkk.bbbbbbbb....kkk
+.k..bbb...b......k...k
+.k..k..k.........k..k..k
+.kkkkk...........kkkkk
+>
+             _
+               --
+==            /
+  ___ /_______    ___
+==  ___   \      /   \
+ |  +  |         |  +  |
+ \___/           \___/
+~
+.............b
+...............rr
+cc............b
+..kkk.bbbbbbbb....kkk
+cc..bbb...b......k...k
+.k..k..k.........k..k..k
+.kkkkk...........kkkkk
+>
+             _         **
+               --
+==            /
+  ___ /_______    ___
+==  ___   \      /   \
+ |  *  |         |  *  |
+ \___/           \___/
+~
+.............b.........YY
+...............rr
+cc............b
+..kkk.bbbbbbbb....kkk
+cc..bbb...b......k...k
+.k..k..k.........k..k..k
+.kkkkk...........kkkkk
+
+@auto
+>
+
+          %%[%%]%%%%
+          %%%%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%=%%
+
+      (O)            (O)
+~
+
+..........rrcrrcrrrr
+..........rrrrrrrrrr
+....rrrrrrrrrrrrrrrrrrrrrrrr
+....rrrrrrrrrrrrrrrrrrrrrYrr
+
+......kkk............kkk
+>
+
+          %%[%%]%%%%
+          %%%%%%%%%%
+==  %%%%%%%%%%%%%%%%%%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%=%%
+ ===
+      (o)            (o)
+~
+
+..........rrcrrcrrrr
+..........rrrrrrrrrr
+WW..rrrrrrrrrrrrrrrrrrrrrrrr
+....rrrrrrrrrrrrrrrrrrrrrYrr
+.WWW
+......kkk............kkk
+>
+                        \|/
+          %%[%%]%%%%    -O-
+          %%%%%%%%%%
+==  %%%%%%%%%%%%%%%%%%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%=%%
+ ===
+      (O)            (O)
+~
+........................YYY
+..........rrcrrcrrrr....YYY
+..........rrrrrrrrrr
+WW..rrrrrrrrrrrrrrrrrrrrrrrr
+....rrrrrrrrrrrrrrrrrrrrrYrr
+.WWW
+......kkk............kkk
+
+@bus
+>
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%[][][][]%%%%%%%%%%%%%%%*
+%%%%%%%%%%%%%%%%%%%%%%|%%|
+%%%%%%%%%%%%%%%%%%%%%%|%%|
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (O)              (O)
+~
+
+YYYYYYYYYYYYYYYYYYYYYYYYYY
+YYkkkkkkkkYYYYYYYYYYYYYYYk
+YYYYYYYYYYYYYYYYYYYYYYkYYk
+YYYYYYYYYYYYYYYYYYYYYYkYYk
+YYYYYYYYYYYYYYYYYYYYYYYYYY
+...kkk..............kkk
+>
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%[][][][]%%%%%%%%%%%%%%%*
+%%%%%%%%%%%%%%%%%%%%%%|%%|
+%%%%o%o%%%%%%%%%%%%%%%|%%|
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (o)              (o)
+~
+
+YYYYYYYYYYYYYYYYYYYYYYYYYY
+YYCCCCCCCCYYYYYYYYYYYYYYYk
+YYYYYYYYYYYYYYYYYYYYYYkYYk
+YYYYmYmYYYYYYYYYYYYYYYkYYk
+YYYYYYYYYYYYYYYYYYYYYYYYYY
+...kkk..............kkk
+>
+ *  *
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%[][][][]%%%%%%%%%%%%%%%*
+%%%%%%%%%%%%%%%%%%%%%%|%%|
+%%%%o%o%%%%%%%%%%%%%%%|%%|
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (O)              (O)
+~
+.Y..Y
+YYYYYYYYYYYYYYYYYYYYYYYYYY
+YYCCCCCCCCYYYYYYYYYYYYYYYR
+YYYYYYYYYYYYYYYYYYYYYYkYYk
+YYYYmYmYYYYYYYYYYYYYYYkYYk
+YYYYYYYYYYYYYYYYYYYYYYYYYY
+...kkk..............kkk
+
+@zug
+>
+            %%%%%%
+  _|_       %[=]%%
+  | |       %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%[%]%[%]%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (O)        (O)     (O)  (O)
+~
+............rrrrrr
+..kkk.......rcccrr
+..k.k.......rrrrrr
+bbbbbbbbbbbbrrrrrrggggggggggg
+bbbbbbbbbbbbrrrrrrgWgWgWgWggg
+bbbbbbbbbbbbrrrrrrggggggggggg
+..kkk........kkk.....kkk..kkk
+>
+   o        %%%%%%
+  _|_       %[=]%%
+  | |       %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%[%]%[%]%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (O)        (O)     (o)  (O)
+~
+...W........rrrrrr
+..kkk.......rcccrr
+..k.k.......rrrrrr
+bbbbbbbbbbbbrrrrrrggggggggggg
+bbbbbbbbbbbbrrrrrrgWgWgWgWggg
+bbbbbbbbbbbbrrrrrrggggggggggg
+..kkk........kkk.....kkk..kkk
+>
+   oO o   ~~%%%%%%
+  _|_       %[=]%%
+  | |       %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%[%]%[%]%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (O)        (O)     (O)  (O)
+~
+...WW.W...WWrrrrrr
+..kkk.......rcccrr
+..k.k.......rrrrrr
+bbbbbbbbbbbbrrrrrrggggggggggg
+bbbbbbbbbbbbrrrrrrgWgWgWgWggg
+bbbbbbbbbbbbrrrrrrggggggggggg
+..kkk........kkk.....kkk..kkk
+
+@flugzeug
+>
+
+
+ /|
+   %%%%%%%%%%%%%%%%[]%%%>
+ % %%%%%%%%%%%%%%%%%%%%%
+    %    %%%%%%%%
+
+=============
+~
+
+
+.RR
+...wwwwwwwwwwwwwwwwccwwww
+.w.wwwwwwwwwwwwwwwwwwwww
+....B....BBBBBBBB
+
+kkkkkkkkkkkkk
+>
+
+ /|
+   %%%%%%%%%%%%%%%%[]%%%>
+ % %%%%%%%%%%%%%%%%%%%%%
+    %    %%%%%%%%
+
+
+----
+~
+
+.RR
+...wwwwwwwwwwwwwwwwccwwww
+.w.wwwwwwwwwwwwwwwwwwwww
+....B....BBBBBBBB
+
+
+kkkk
+>
+ (|)                  (  )
+   %%%%%%%%%%%%%%%%[]%%%>
+ % %%%%%%%%%%%%%%%%%%%%%
+    %    %%%%%%%%
+~
+.WRW..................W..W
+...wwwwwwwwwwwwwwwwccwwww
+.w.wwwwwwwwwwwwwwwwwwwww
+....B....BBBBBBBB
+
+@schiff
+>
+          |>
+      %%%%%%%%
+      %%[][]%%
+      %%%%%%%%
+ \____________/
+
+~~~~~~~~~~~~~~~~~~~~~
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~
+..........kR
+......wwwwwwww
+......wwccccww
+......wwwwwwww
+.rrrrrrrrrrrrrr
+
+BBBBBBBBBBBBBBBBBBBBB
+.b.b.b.b.b.b.b.b.b.b.b.b.b.b
+>
+          |>
+      %%%%%%%%
+      %%[][]%%
+      %%%%%%%%
+ \____________/
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~~~~~~~~~~~~~~~~~~~~~~
+~
+..........kR
+......wwwwwwww
+......wwccccww
+......wwwwwwww
+.rrrrrrrrrrrrrr
+
+B.B.B.B.B.B.B.B.B.B.B.B.B.B.B
+bbbbbbbbbbbbbbbbbbbbbb
+>
+          |>>>      *
+      %%%%%%%%
+      %%[][]%%
+      %%%%%%%%
+ \____________/
+
+~~~~~~~~~~~~~~~~~~~~~
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~
+..........kRRR......Y
+......wwwwwwww
+......wwccccww
+......wwwwwwww
+.rrrrrrrrrrrrrr
+
+BBBBBBBBBBBBBBBBBBBBB
+.b.b.b.b.b.b.b.b.b.b.b.b.b.b
+
+@boot
+>
+           |>
+            /|
+            / |
+            /  |
+        \_________/
+
+~~~~~~~~~~~~
+              ~ ~ ~ ~
+~
+...........kR
+............WW
+............W.W
+............W..W
+........yyyyyyyyyyy
+
+BBBBBBBBBBBB
+..............b.b.b.b
+>
+           |>
+            /|
+            / |
+            /  |
+        \_________/
+
+~ ~ ~ ~ ~ ~ ~ ~ ~
+              ~~~~~
+~
+...........kR
+............WW
+............W.W
+............W..W
+........yyyyyyyyyyy
+
+B.B.B.B.B.B.B.B.B
+..............bbbbb
+>
+           |>>
+            /|        *
+            / |
+            /  |
+        \_________/
+
+~~~~~~~~~~~~
+              ~ ~ ~ ~
+~
+...........kRR
+............WW........Y
+............W.W
+............W..W
+........yyyyyyyyyyy
+
+BBBBBBBBBBBB
+..............b.b.b.b
+
+@lastwagen
+>
+
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%=%%%%%%%%%
+%%%*%%%%%%%%%%%%%%%%[=]%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (O)        (O)    (O)
+~
+
+bbbbbbbbbbbbbbbbbb
+bbbbbbbbYbbbbbbbbb
+bbbYbbbbbbbbbbbbbbrrcccrrr
+bbbbbbbbbbbbbbbbbbrrrrrrrr
+bbbbbbbbbbbbbbbbbbrrrrrrrr
+...kkk........kkk....kkk
+>
+
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%=%%%%%%%%%
+%%%*%%%%%%%%%%%%%%%%[=]%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (o)        (o)    (o)
+oo
+~
+
+bbbbbbbbbbbbbbbbbb
+bbbbbbbbYbbbbbbbbb
+bbbYbbbbbbbbbbbbbbrrcccrrr
+bbbbbbbbbbbbbbbbbbrrrrrrrr
+bbbbbbbbbbbbbbbbbbrrrrrrrr
+...kkk........kkk....kkk
+kk
+>
+
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%=%%%%%%%%%
+%%%*%%%%%%%%*%%%%%%%[=]%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (O)        (O)    (O)
+oo
+~
+
+bbbbbbbbbbbbbbbbbb
+bbbbbbbbYbbbbbbbbb
+bbbYbbbbbbbbYbbbbbrrcccrrr
+bbbbbbbbbbbbbbbbbbrrrrrrrr
+bbbbbbbbbbbbbbbbbbrrrrrrrr
+...kkk........kkk....kkk
+kk
+
+@motorrad
+>
+
+                   _
+              /o     \
+            ___ (
+       _____ /     \_
+                  /
+    (O)             (O)
+~
+
+...................k
+..............kR.....k
+............rrr.k
+.......rrrrr.r.....rr
+..................r
+....kkk.............kkk
+>
+
+                   _
+===           /o     \
+            ___ (
+ ==    _____ /     \_
+                  /
+    (O)             (o)
+~
+
+...................k
+WWW...........kR.....k
+............rrr.k
+.WW....rrrrr.r.....rr
+..................r
+....kkk.............kkk
+>
+                        *
+                   _
+===           /o     \
+            ___ (
+ ==    _____ /     \_
+                  /
+    (O)             (O)
+~
+........................Y
+...................k
+WWW...........kR.....k
+............rrr.k
+.WW....rrrrr.r.....rr
+..................r
+....kkk.............kkk
+
+@krankenwagen
+>
+   [ ]      [ ]
+%%%%%%%%%%%%%%%%%%%
+%%%%%%%%+%%%%%%%%%%
+%%%%%%%+++%%%%%%%%%%[=]%%%%
+%%%%%%%%+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (O)              (O)
+~
+...k.k......k.k
+WWWWWWWWWWWWWWWWWWW
+WWWWWWWWRWWWWWWWWWW
+WWWWWWWRRRWWWWWWWWWWcccWWWW
+WWWWWWWWRWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWW
+...kkk..............kkk
+>
+   [ ]      [ ]
+%%%%%%%%%%%%%%%%%%%
+%%%%%%%%+%%%%%%%%%%
+%%%%%%%+++%%%%%%%%%%[=]%%%%
+%%%%%%%%+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (o)              (o)
+~
+...R.R......k.k
+WWWWWWWWWWWWWWWWWWW
+WWWWWWWWRWWWWWWWWWW
+WWWWWWWRRRWWWWWWWWWWcccWWWW
+WWWWWWWWRWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWW
+...kkk..............kkk
+>
+   [ ]      [ ]
+%%%%%%%%%%%%%%%%%%%
+%%%%%%%%+%%%%%%%%%%
+%%%%%%%+++%%%%%%%%%%[=]%%%%
+%%%%%%%%+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (O)              (O)
+~
+...R.R......B.B
+WWWWWWWWWWWWWWWWWWW
+WWWWWWWWRWWWWWWWWWW
+WWWWWWWRRRWWWWWWWWWWcccWWWW
+WWWWWWWWRWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWW
+...kkk..............kkk
+
+@bagger
+>
+
+
+   %[]%
+   %%%%
+  %%%%%%%%=====
+  %%%%%%%%%   |
+  %%%%%%%%%  \__/
+ =================
+~
+
+
+...yccy
+...yyyy
+..yyyyyyyyYYYYY
+..yyyyyyyyy...Y
+..yyyyyyyyy..kkkk
+.kkkkkkkkkkkkkkkkk
+>
+             /\_/
+            /
+   %[]%    /
+   %%%%   /
+  %%%%%%%%%
+  %%%%%%%%%
+  %%%%%%%%%
+ =================
+~
+.............Ykkk
+............Y
+...yccy....Y
+...yyyy...Y
+..yyyyyyyyy
+..yyyyyyyyy
+..yyyyyyyyy
+.kkkkkkkkkkkkkkkkk
+>
+
+
+   %[]%
+   %%%%
+  %%%%%%%%=====    ::
+  %%%%%%%%%   |   .:::.
+  %%%%%%%%%  \__/
+ =================
+~
+
+
+...yccy
+...yyyy
+..yyyyyyyyYYYYY....yy
+..yyyyyyyyy...Y...yyyyy
+..yyyyyyyyy..kkkk
+.kkkkkkkkkkkkkkkkk
+
+@hubschrauber
+>
+
+        =========
+            |          |
+       %%%%%%%%%%     /
+       %%[%]%%%%%________
+       %%%%%%%%%%
+      =============
+~
+
+........kkkkkkkkk
+............k..........k
+.......bbbbbbbbbb.....k
+.......bbCbCbbbbbbbbbbbbb
+.......bbbbbbbbbb
+......kkkkkkkkkkkkk
+>
+
+        / / / / /
+            |          |
+       %%%%%%%%%%     /
+       %%[%]%%%%%________
+       %%%%%%%%%%
+      =============
+~
+
+........k.k.k.k.k
+............k..........k
+.......bbbbbbbbbb.....k
+.......bbCbCbbbbbbbbbbbbb
+.......bbbbbbbbbb
+......kkkkkkkkkkkkk
+>
+.  .                     .
+        _________
+            |          |
+       %%%%%%%%%%     /
+       %%[%]%%%%%________
+       %%%%%%%%%%
+      =============
+~
+C..C.....................C
+........kkkkkkkkk
+............k..........k
+.......bbbbbbbbbb.....k
+.......bbCbCbbbbbbbbbbbbb
+.......bbbbbbbbbb
+......kkkkkkkkkkkkk
+
+@taxi
+>
+             [ ]
+          %%[%%]%%%%
+          %%%%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%%%%
+    +-+-+-+-+-+-+-+-+-+-+
+      (O)            (O)
+~
+.............k.k
+..........YYcYYcYYYY
+..........YYYYYYYYYY
+....YYYYYYYYYYYYYYYYYYYYYYYY
+....YYYYYYYYYYYYYYYYYYYYYYYY
+....kkkkkkkkkkkkkkkkkkkkk
+......kkk............kkk
+>
+             [ ]
+          %%[%%]%%%%
+          %%%%%%%%%%
+==  %%%%%%%%%%%%%%%%%%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%%%%
+ == +-+-+-+-+-+-+-+-+-+-+
+      (o)            (o)
+~
+.............Y.Y
+..........YYcYYcYYYY
+..........YYYYYYYYYY
+WW..YYYYYYYYYYYYYYYYYYYYYYYY
+....YYYYYYYYYYYYYYYYYYYYYYYY
+.WW.kkkkkkkkkkkkkkkkkkkkk
+......kkk............kkk
+>
+             [ ]
+          %%[o%]%%%%
+          %%%%%%%%%%
+==  %%%%%%%%%%%%%%%%%%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%%%%
+ == +-+-+-+-+-+-+-+-+-+-+
+      (O)            (O)
+~
+.............Y.Y
+..........YYcRYcYYYY
+..........YYYYYYYYYY
+WW..YYYYYYYYYYYYYYYYYYYYYYYY
+....YYYYYYYYYYYYYYYYYYYYYYYY
+.WW.kkkkkkkkkkkkkkkkkkkkk
+......kkk............kkk
+
+@rakete
+>
+
+
+            /\
+           /  \
+           | O |
+           |___|
+         /|___|\
+___________________________
+~
+
+
+............RR
+...........W..W
+...........W.c.W
+...........WWWWW
+.........RRRRRRR
+kkkkkkkkkkkkkkkkkkkkkkkkkkk
+>
+
+            /\
+           /  \
+           | O |
+           |___|
+         /|___|\
+           VvV
+            V
+~
+
+............RR
+...........W..W
+...........W.c.W
+...........WWWWW
+.........RRRRRRR
+...........YYY
+............R
+>
+  *         /\
+           /  \         *
+           | O |
+           |___|
+    *    /|___|\
+           VvV
+            V
+~
+..Y.........RR
+...........W..W.........Y
+...........W.c.W
+...........WWWWW
+....Y....RRRRRRR
+...........YYY
+............R

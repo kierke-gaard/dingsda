@@ -1,0 +1,385 @@
+@geschenk
+>
+ \ /\ /
+ +--||--+
+ |  ||  |
+ |==||==|
+ |  ||  |
+ +------+
+~
+ r rr r
+ rrrrrrrr
+ r  rr  r
+ rrrrrrrr
+
+
+>
+  \ /\ /   *
+  +--||--+
+  |  ||  |
+* |==||==|
+  |  ||  |
+  +------+
+~
+  r rr r   r
+  rrrrrrrr
+  r  rr  r
+r rrrrrrrr
+
+
+>
+ * \ /\ / *
+ +--||--+
+ |  ||  |
+ |==||==|
+ |  ||  |
+ +------+
+~
+ r r rr r r
+ rrrrrrrr
+ r  rr  r
+ rrrrrrrr
+
+
+
+@torte
+>
+   | | | |
+   | | | |
+ .---------.
+ |  o   o  |
+ '---------'
+~
+   w w w w
+   y y y y
+ yyyyyyyyyyy
+
+
+>
+   ^ ^ ^ ^
+   | | | |
+ .---------.
+ |  o   o  |
+ '---------'
+~
+   w w w w
+   y y y y
+ yyyyyyyyyyy
+
+
+>
+  *^ ^ ^ ^*
+   | | | |
+ .---------.
+ |  o   o  |
+ '---------'
+~
+  ww w w ww
+   y y y y
+ yyyyyyyyyyy
+
+
+
+@luftballon
+>
+
+
+  .-.   .-.   .-.
+ (   ) (   ) (   )
+  '-'   '-'   '-'
+   |     |     |
+   |     |     |
+~
+
+
+
+  rrr   bbb   yyy
+ rrrrr bbbbb yyyyy
+  rrr   bbb   yyy
+   k     k     k
+>
+
+  .-.   .-.   .-.
+ (   ) (   ) (   )
+  '-'   '-'   '-'
+   |     |     |
+   |     |     |
+   |     |     |
+~
+
+  rrr   bbb   yyy
+ rrrrr bbbbb yyyyy
+  rrr   bbb   yyy
+   k     k     k
+   k     k     k
+   k     k     k
+>
+  *            *
+  .-.   .-.   .-.
+ (   ) (   ) (   )
+  '-'   '-'   '-'
+   |     |     |
+   |     |     |
+   |     |     |
+~
+  y            y
+  rrr   bbb   yyy
+ rrrrr bbbbb yyyyy
+  rrr   bbb   yyy
+   k     k     k
+   k     k     k
+   k     k     k
+
+@kerze
+>
+     .
+    / \
+    \ /
+     |
+   .---.
+   |   |
+   |___|
+~
+     y
+    y y
+    k k
+     w
+   wwwww
+
+
+>
+     ,
+    /o\
+     V
+     |
+   .---.
+   |   |
+   |___|
+~
+     y
+    yyy
+     k
+     w
+   wwwww
+
+
+>
+   \ | /
+    \|/
+     *
+     |
+   .---.
+   |   |
+   |___|
+~
+   Y Y Y
+    yyy
+     k
+     w
+   wwwww
+
+
+
+@wunderkerze
+>
+           .
+          /
+         /
+        /
+       /
+      /
+     =
+~
+           w
+          w
+         w
+        w
+       w
+
+
+>
+       * * *
+           .
+          /
+         /
+        /
+       /
+      /
+     =
+~
+       y y y
+           w
+          w
+         w
+        w
+       w
+
+
+>
+    *  *  *
+   *   .  *
+   *  /  *
+        /
+       /
+      /
+     /
+     =
+~
+    Y  Y  Y
+   Y   Y  Y
+   w  w  w
+        w
+       w
+      w
+
+
+
+@konfetti
+>
+  *    o     +
+     x    *
+  +     o
+      *    x
+   o     +   *
+ x     *
+   ____________
+~
+  y    y     y
+     c    c
+  m     m
+      g    g
+   b     b   b
+
+
+>
+     +    *
+  o    x    *
+    *    +
+ x     o    +
+    +     *
+  o     x
+   ____________
+~
+     y    y
+  c    c    c
+    m    m
+ g     g    g
+    b     b
+
+
+>
+ *  +  o  *  +
+  o  *  x  +  o
+ +  o  *  x  *
+  x  +  o  +
+ *  o  x  *  o
+  +  *  o  +
+   ____________
+~
+ y  y  y  y  y
+  c  c  c  c  c
+ m  m  m  m  m
+  g  g  g  g
+ b  b  b  b  b
+
+
+
+@weihnachtsbaum
+>
+      *
+      /\
+     /  \
+    /    \
+   /      \
+  /________\
+      ||
+~
+      g
+      gg
+     g  g
+    g    g
+   g      g
+
+
+>
+      *
+      /\
+     /  \
+    / o  \
+   / o  o \
+  /________\
+      ||
+~
+      g
+      gg
+    g r  g
+   g b  r g
+   g g  g g
+
+
+>
+  *  *  *
+      *
+      /\
+     /  \
+    / o  \
+   / o  o \
+  /________\
+      ||
+~
+  y  y  y
+      g
+      gg
+    g r  g
+   g b  r g
+   g g  g g
+
+
+
+@lampion
+>
+      |
+    .---.
+   /     \
+  |       |
+   \     /
+    '---'
+      |
+~
+      r
+    rrrrr
+   r     r
+  r       r
+   r     r
+
+
+>
+      |
+    .---.
+   /     \
+  |  ~~~  |
+   \     /
+    '---'
+      |
+~
+      r
+    rrrrr
+  r  yyy  r
+  r  rrr  r
+   r     r
+
+
+>
+  \ | /
+    .---.
+   /     \
+  |  ~~~  |
+   \     /
+    '---'
+  / | \
+~
+  r r r
+    rrrrr
+  r  yyy  r
+  r  rrr  r
+   r     r

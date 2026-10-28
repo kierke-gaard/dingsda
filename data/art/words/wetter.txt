@@ -1,0 +1,142 @@
+@regen
+>
+    .-~~~-.
+  .(        ).
+ (___________)
+   :   :   :
+~
+....kkkkkkk
+..kk........kk
+.kkkkkkkkkkkkk
+...c...c...c
+>
+    .-~~~-.
+  .(        ).
+ (___________)
+  :   :   :
+   :   :   :
+~
+....kkkkkkk
+..kk........kk
+.kkkkkkkkkkkkk
+..c...c...c
+...c...c...c
+>
+    .-~~~-.
+  .(        ).
+ (___________)
+  :  :  :  :
+   :  :  :  :
+  ===========
+~
+....kkkkkkk
+..kk........kk
+.kkkkkkkkkkkkk
+..c..c..c..c
+...c..c..c..c
+..ggggggggggg
+
+@schnee
+>
+   *     *   *
+       *      *
+   *    *     *
+
+  ==============
+~
+...W.....W...W
+.......W......W
+...W....W.....W
+
+..wwwwwwwwwwwwww
+>
+  *   *     *
+     *   *   *
+   *     *   *
+    *    *
+  ==============
+~
+..W...W.....W
+.....W...W...W
+...W.....W...W
+....W....W
+..wwwwwwwwwwwwww
+>
+  *   *  *   *
+    *   *   *
+  *    *    *
+   *   *    *
+  ==============
+~
+..W...W..W...W
+....W...W...W
+..W....W....W
+...W...W....W
+..wwwwwwwwwwwwww
+
+@wind
+>
+  |
+  |FFFF
+  |FFFF
+  |
+  |
+ ========
+~
+
+...rrrr
+...rrrr
+
+
+.gggggggg
+>
+   |
+   |FFFFFF
+   |FFFFF
+   |  FF
+ ========
+~
+
+....rrrrrr
+....rrrrr
+......rr
+.gggggggg
+>
+   |   FFFFFFF
+   |  FFFFFFFFF
+   |   FFFFFF
+   |    ~~ ~~~
+ =========
+~
+.......rrrrrrr
+......rrrrrrrrr
+.......rrrrrr
+........cc.ccc
+.ggggggggg
+
+@wolke
+>
+     .--.
+  .-(    ).         O
+ (___________)
+~
+.....wwww
+..www....ww.........y
+.wwwwwwwwwwwww
+>
+     .--.       O
+  .-(    ).
+ (___________)
+~
+.....wwww.......y
+..www....ww
+.wwwwwwwwwwwww
+>
+     .--.          O
+  .-(    ).
+ (___________)
+~
+.....wwww..........y
+..www....ww
+.wwwwwwwwwwwww
+

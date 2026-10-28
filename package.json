@@ -1,0 +1,30 @@
+{
+  "name": "dingsda",
+  "version": "0.1.0",
+  "description": "Word-explaining party game for small children",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "dingsda": "dist/main.js"
+  },
+  "files": [
+    "LICENSE",
+    "dist",
+    "data"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/main.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}
