@@ -1,12 +1,91 @@
-# Dingsda
+<div align="center">
 
-A word-explaining party game for small children (3–6 years), inspired by the German TV show "Dingsda".
+```
+  __  _  |\ | __  __  __  _
+ |  \ |  | \|/ _|(_  |  \/_\
+ |__/_|_ |  |\__|__) |__// \
+```
 
-The child hears a secret word through headphones and explains it without saying it.
+# D I N G S D A &nbsp;!&nbsp;?&nbsp;!
+
+**The word-explaining party game for small children (3–6 years), played in the terminal.**
+
+<sub>Inspired by the German TV show "Dingsda" · German words · offline · no screen spoilers</sub>
+
+[![Node.js](https://img.shields.io/badge/node-%E2%89%A522-3c873a?logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![Words](https://img.shields.io/badge/words-~1000-ff69b4)](#words)
+[![ASCII movies](https://img.shields.io/badge/ASCII%20movies-~200%20%2B%2015%20categories-8a2be2)](#ascii-movies)
+[![Offline](https://img.shields.io/badge/runs-100%25%20offline-2ea44f)](#technology--runtime)
+
+<img src="docs/demo.svg" alt="Animated demo of a Dingsda round: the child hears a word, an ASCII movie plays, the word is revealed and the score columns grow" width="860">
+
+</div>
+
+---
+
+## The idea
+
+The child hears a **secret word through headphones** and explains it without saying it.
 The audience (the adults) tries to guess the word.
 The words fit the child's age, are hard enough to be challenging to explain, and should be fun for both the child and the audience.
 
-This app is an enabler to play this game.
+This app is an enabler to play this game. The child runs it alone, with one hand on a few big keys.
+
+## A round at a glance
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**1. Ready**<br>
+The adult enters the age; the child takes over the keyboard and presses <kbd>Space</kbd>.
+
+<img src="docs/start.svg" alt="Start screen with the DINGSDA banner and empty score columns">
+
+</td>
+<td width="50%" valign="top">
+
+**2. Explain**<br>
+The word is spoken in the headphones only. A little coloured ASCII movie plays on screen to help the child.
+
+<img src="docs/explain.svg" alt="Explain screen: an ASCII elephant movie, the word is not shown">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**3. Guessed!** <kbd>Enter</kbd><br>
+Fun ASCII art, the word is revealed, the green column grows.
+
+<img src="docs/hit.svg" alt="Success screen with a trophy, the revealed word 'die Torte' and the score columns">
+
+</td>
+<td width="50%" valign="top">
+
+**4. Not guessed** <kbd>Backspace</kbd><br>
+A rain cloud, the reveal, and the red column grows. Then on to the next word.
+
+<img src="docs/miss.svg" alt="Fail screen with a rain cloud and the revealed word 'der Bagger'">
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Intro and outro</b> (5 s each, any key skips them)</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><img src="docs/intro.svg" alt="Animated intro with the colourful DINGSDA logo"></td>
+<td width="50%"><img src="docs/outro.svg" alt="Goodbye screen with the final score"></td>
+</tr>
+</table>
+
+</details>
 
 ## How to play
 
@@ -64,6 +143,8 @@ npx dingsda setup          # one time: download Piper + voice, render audio
 npx dingsda --test-audio   # check that sound only comes out of the headphones
 npx dingsda                # play
 ```
+
+The screenshots in `docs/` are rendered from the real UI code. Regenerate them with `npx tsx scripts/make-screenshots.ts`.
 
 During development, `npx tsx src/main.ts --silent --age 4` runs without sound and prints the word to stderr.
 

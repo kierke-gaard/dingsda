@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="996" height="634" viewBox="0 0 996 634" font-family="'DejaVu Sans Mono','Menlo','Consolas','Liberation Mono',monospace" font-size="16">
+<rect width="996" height="634" rx="12" fill="#1e1e2e"/>
+<path d="M0 12a12 12 0 0 1 12-12h972a12 12 0 0 1 12 12v26H0z" fill="#181825"/>
+<circle cx="24" cy="19" r="6.5" fill="#ff5f57"/><circle cx="46" cy="19" r="6.5" fill="#febc2e"/><circle cx="68" cy="19" r="6.5" fill="#28c840"/>
+<text x="498" y="24" text-anchor="middle" fill="#6c7086" font-size="13">dingsda</text>
+<text x="18" y="71" xml:space="preserve"><tspan fill="#cdd6f4">                                         </tspan><tspan fill="#94e2d5" font-weight="700">DINGSDA</tspan><tspan fill="#cdd6f4">   Alter: 5</tspan></text>
+<text x="18" y="91" xml:space="preserve"></text>
+<text x="18" y="111" xml:space="preserve"></text>
+<text x="18" y="131" xml:space="preserve"></text>
+<text x="18" y="151" xml:space="preserve"></text>
+<text x="18" y="171" xml:space="preserve"></text>
+<text x="18" y="191" xml:space="preserve"><tspan fill="#cdd6f4">                                           </tspan><tspan fill="#6c7086">   ____</tspan><tspan fill="#cdd6f4">       </tspan></text>
+<text x="18" y="211" xml:space="preserve"><tspan fill="#cdd6f4">                                           </tspan><tspan fill="#6c7086">  /    \____</tspan><tspan fill="#cdd6f4">  </tspan></text>
+<text x="18" y="231" xml:space="preserve"><tspan fill="#cdd6f4">                                           </tspan><tspan fill="#6c7086"> /  ^   .    \</tspan></text>
+<text x="18" y="251" xml:space="preserve"><tspan fill="#cdd6f4">                                           </tspan><tspan fill="#6c7086"> \____/  |  |</tspan><tspan fill="#cdd6f4"> </tspan></text>
+<text x="18" y="271" xml:space="preserve"><tspan fill="#cdd6f4">                                           </tspan><tspan fill="#6c7086">      |__|__|</tspan><tspan fill="#cdd6f4"> </tspan></text>
+<text x="18" y="291" xml:space="preserve"></text>
+<text x="18" y="311" xml:space="preserve"><tspan fill="#cdd6f4">                                          </tspan><tspan fill="#cdd6f4" font-weight="700">Erklär das Wort!</tspan></text>
+<text x="18" y="331" xml:space="preserve"><tspan fill="#cdd6f4">                                    </tspan><tspan fill="#cdd6f4" opacity="0.55">(LEERTASTE = nochmal hören)</tspan></text>
+<text x="18" y="351" xml:space="preserve"></text>
+<text x="18" y="371" xml:space="preserve"></text>
+<text x="18" y="391" xml:space="preserve"></text>
+<text x="18" y="411" xml:space="preserve"></text>
+<text x="18" y="431" xml:space="preserve"></text>
+<text x="18" y="451" xml:space="preserve"><tspan fill="#cdd6f4">                                                                            </tspan></text>
+<text x="18" y="471" xml:space="preserve"><tspan fill="#cdd6f4">                                                                            </tspan></text>
+<text x="18" y="491" xml:space="preserve"><tspan fill="#cdd6f4">                                                                            </tspan></text>
+<text x="18" y="511" xml:space="preserve"><tspan fill="#cdd6f4">                                                                            </tspan></text>
+<text x="18" y="531" xml:space="preserve"><tspan fill="#cdd6f4">                       </tspan><tspan fill="#a6e3a1">███</tspan><tspan fill="#cdd6f4">                                                  </tspan></text>
+<text x="18" y="551" xml:space="preserve"><tspan fill="#cdd6f4">                       </tspan><tspan fill="#a6e3a1">███</tspan><tspan fill="#cdd6f4">                                               </tspan><tspan fill="#f38ba8">███</tspan></text>
+<text x="18" y="571" xml:space="preserve"><tspan fill="#cdd6f4">                     </tspan><tspan fill="#a6e3a1" font-weight="700">GEWUSST</tspan><tspan fill="#cdd6f4">                                        </tspan><tspan fill="#f38ba8" font-weight="700">NICHT GEWUSST</tspan></text>
+<text x="18" y="591" xml:space="preserve"><tspan fill="#cdd6f4">                        2                                                 1</tspan></text>
+<text x="18" y="611" xml:space="preserve"><tspan fill="#cdd6f4">     </tspan><tspan fill="#cdd6f4" opacity="0.55">LEERTASTE Wort/nochmal · ENTER gewusst · ENTF nicht gewusst · S überspringen · ESC beenden</tspan></text>
+</svg>
