@@ -132,7 +132,7 @@ Two columns, a green **GEWUSST** column and a red **NICHT GEWUSST** column, add 
 - Audio playback uses `pw-play`, `paplay` or `aplay`, whichever is found first.
 - **Headphones must be the default audio output**, so the adults can't hear the word. Check it with `dingsda --test-audio`.
 - No LLM and no network access at game time.
-- No persistence required.
+- Asked words are remembered in `~/.local/share/dingsda/seen.json`, so they don't repeat across restarts. Delete the file to reset. Once every word for the chosen age has been asked, a new cycle starts.
 
 ## Quick start
 
@@ -150,7 +150,6 @@ During development, `npx tsx src/main.ts --silent --age 4` runs without sound an
 
 ## Outlook (not implemented yet; the architecture keeps room for these)
 
-- A database of seen words, so words don't repeat across sessions (a simple file is enough).
 - More age classes (7+).
 - Optional additional word sources (e.g. LLM-generated).
 

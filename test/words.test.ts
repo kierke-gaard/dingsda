@@ -1,6 +1,9 @@
 import { describe, it, expect } from 'vitest';
+import { mkdtempSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 import {
-  MemorySeenWords, StaticWordSource, slugify, spokenText, toAgeClass, validateWordList,
+  FileSeenWords, MemorySeenWords, StaticWordSource, slugify, spokenText, toAgeClass, validateWordList,
   type AgeClass, type Word,
 } from '../src/words.js';
 
@@ -43,23 +46,24 @@ describe('slugify/spokenText', () => {
 });
 
 describe('StaticWordSource', () => {
-  it('never repeats and exhausts', () => {
+  it('never repeats within a cycle, then starts a new one', () => {
     const all = mkWords();
     const src = new StaticWordSource(all, 6, new MemorySeenWords(), lcg());
     const got: string[] = [];
-    for (let w = src.next(); w; w = src.next()) got.push(w.id);
-    expect(got.length).toBe(all.length);
+    for (let i = 0; i < all.length; i++) got.push(src.next()!.id);
     expect(new Set(got).size).toBe(all.length);
-    expect(src.next()).toBeUndefined();
+    const again = src.next();
+    expect(again).toBeDefined();
+    expect(again!.id).not.toBe(got[got.length - 1]);
   });
 
   it('only gives words of own or younger classes', () => {
     const src4 = new StaticWordSource(mkWords(), 4, new MemorySeenWords(), lcg(7));
-    for (let w = src4.next(); w; w = src4.next()) expect(w.age).toBeLessThanOrEqual(4);
+    for (let i = 0; i < 20; i++) expect(src4.next()!.age).toBeLessThanOrEqual(4);
     const src3 = new StaticWordSource(mkWords(), 3, new MemorySeenWords(), lcg(7));
-    let n = 0;
-    for (let w = src3.next(); w; w = src3.next()) { expect(w.age).toBe(3); n++; }
-    expect(n).toBe(10);
+    const ids = new Set<string>();
+    for (let i = 0; i < 10; i++) { const w = src3.next()!; expect(w.age).toBe(3); ids.add(w.id); }
+    expect(ids.size).toBe(10);
   });
 
   it('own class comes first with random=0', () => {
@@ -67,12 +71,14 @@ describe('StaticWordSource', () => {
     expect(src.next()!.age).toBe(5);
   });
 
-  it('respects pre-seen words', () => {
+  it('respects pre-seen words and resets when all are seen', () => {
     const all = mkWords();
+    const age3 = all.filter((w) => w.age === 3);
     const seen = new MemorySeenWords();
-    all.filter((w) => w.age === 3).forEach((w) => seen.add(w.id));
+    age3.slice(0, 9).forEach((w) => seen.add(w.id));
     const src = new StaticWordSource(all, 3, seen, lcg());
-    expect(src.next()).toBeUndefined();
+    expect(src.next()!.id).toBe(age3[9]!.id);
+    expect(src.next()).toBeDefined();
   });
 
   it('mixes roughly 70/30 own/younger', () => {
@@ -85,6 +91,39 @@ describe('StaticWordSource', () => {
     for (let i = 0; i < 300; i++) if (src.next()!.age === 6) own++;
     expect(own / 300).toBeGreaterThan(0.6);
     expect(own / 300).toBeLessThan(0.8);
+  });
+});
+
+describe('FileSeenWords', () => {
+  const tmp = () => join(mkdtempSync(join(tmpdir(), 'dingsda-')), 'sub', 'seen.json');
+
+  it('persists add and delete', () => {
+    const p = tmp();
+    const a = new FileSeenWords(p);
+    a.add('x'); a.add('y');
+    expect(new FileSeenWords(p).has('x')).toBe(true);
+    a.delete('x');
+    const b = new FileSeenWords(p);
+    expect(b.has('x')).toBe(false);
+    expect(b.has('y')).toBe(true);
+  });
+
+  it('starts empty on missing or garbage file', () => {
+    expect(new FileSeenWords(tmp()).has('x')).toBe(false);
+    const p = tmp();
+    new FileSeenWords(p).add('x');
+    writeFileSync(p, '{not json');
+    expect(new FileSeenWords(p).has('x')).toBe(false);
+  });
+
+  it('does not overlap across simulated restarts', () => {
+    const p = tmp();
+    const all = mkWords();
+    const first = new StaticWordSource(all, 6, new FileSeenWords(p), lcg(1));
+    const a = Array.from({ length: 15 }, () => first.next()!.id);
+    const second = new StaticWordSource(all, 6, new FileSeenWords(p), lcg(2));
+    const b = Array.from({ length: 25 }, () => second.next()!.id);
+    expect(new Set([...a, ...b]).size).toBe(40);
   });
 });
 

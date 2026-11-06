@@ -2,13 +2,13 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { createInterface } from 'node:readline/promises';
-import { audioDir, wordsDir } from './paths.js';
+import { audioDir, seenFile, wordsDir } from './paths.js';
 import { audioIsEmpty, runSetup } from './setup.js';
 import { SilentSpeaker, WavSpeaker, findPlayer, piperAvailable, synthesize } from './speech.js';
 import { loadArt } from './movies.js';
 import { runGame } from './ui.js';
 import { parseArgs, type Args } from './args.js';
-import { MemorySeenWords, StaticWordSource, toAgeClass, validateWordList, type Word } from './words.js';
+import { FileSeenWords, StaticWordSource, toAgeClass, validateWordList, type Word } from './words.js';
 
 const HELP = `Dingsda – Wörter erklären für kleine Kinder
 
@@ -84,7 +84,7 @@ async function main(): Promise<void> {
     console.log(rawAge < 3 ? 'Unter 3 Jahren gibt es (noch) die Wörter für 3-Jährige.'
       : 'Ab 6 Jahren gibt es (noch) die Wörter für 6-Jährige.');
   }
-  const source = new StaticWordSource(words, age, new MemorySeenWords());
+  const source = new StaticWordSource(words, age, new FileSeenWords(seenFile));
   await runGame({ age, source, speaker, art });
 }
 
